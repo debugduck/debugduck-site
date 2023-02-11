@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Additions stop here
     
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Claire's Space"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -36,7 +36,7 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
+  userName = "debugduck"
   pcName = "laptop"
   workDir = "mydir"
   profile = "profile.txt"
